@@ -1,0 +1,289 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-08-14 07:38:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 07:38:27 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 07:38:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 07:46:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 07:46:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 07:46:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 07:46:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 07:46:28 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 07:48:42 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 07:48:43 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 07:51:12 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 07:51:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 07:51:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:02:30 --> Module controller failed to run: admin/Groups/
+ERROR - 2016-08-14 08:02:32 --> 404 Page Not Found --> Group_Menus/favicon.ico
+ERROR - 2016-08-14 08:05:30 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 08:05:30 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 08:05:30 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 08:05:30 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 08:05:30 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 08:19:45 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:19:45 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:19:46 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:20:08 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:20:08 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:20:09 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:20:36 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:20:36 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:20:36 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:21:03 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:21:03 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:21:16 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:21:16 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:21:17 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:22:41 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:22:41 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:22:41 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:22:50 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:22:50 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:22:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:27:58 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:27:59 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:36:15 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:36:15 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:36:25 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:36:58 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:36:58 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:37:23 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:37:23 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:37:23 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:37:31 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:37:31 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:37:32 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:38:02 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:38:02 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:38:02 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:38:53 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:38:53 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:38:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:40:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:40:27 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:40:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:40:52 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:40:52 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:41:12 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:41:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:41:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:45:25 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:45:25 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:46:29 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:46:29 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:46:29 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:47:13 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:47:13 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:47:13 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:47:39 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:48:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:48:26 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:48:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:55:34 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:55:34 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:55:59 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:55:59 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:55:59 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:56:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:56:26 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:56:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:59:15 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:59:15 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:59:15 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:59:39 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 08:59:39 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 08:59:39 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:00:24 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:00:24 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:02:14 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:02:14 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:02:14 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:02:15 --> 404 Page Not Found --> assets/global/img/bn-arrows.png
+ERROR - 2016-08-14 09:04:21 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:04:21 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:04:21 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:04:45 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:04:45 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:04:45 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:04:59 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:04:59 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:04:59 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:05:50 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:05:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:05:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:06:12 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:06:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:06:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:07:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:07:54 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:07:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:12:17 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:12:17 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:12:17 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:14:03 --> 404 Page Not Found --> Group_Users/favicon.ico
+ERROR - 2016-08-14 09:16:49 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:16:50 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:16:50 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:24:54 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:24:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:24:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:26:29 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:26:29 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:26:29 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:27:16 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:27:16 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:27:16 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:27:55 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:27:55 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:27:55 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:28:06 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:28:06 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:28:06 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:30:39 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:30:39 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:30:39 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:30:39 --> 404 Page Not Found --> assets/global/img/bn-arrows.png
+ERROR - 2016-08-14 09:31:58 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:31:58 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:31:58 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:32:16 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:32:16 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:32:16 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:33:53 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:33:53 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:33:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:34:14 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 09:34:14 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:34:14 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 09:41:57 --> Module controller failed to run: admin/Groups/
+ERROR - 2016-08-14 10:07:20 --> Module controller failed to run: admin/Groups/
+ERROR - 2016-08-14 10:28:05 --> Module controller failed to run: admin/Groups/
+ERROR - 2016-08-14 10:30:07 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:30:07 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:30:14 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:31:52 --> Severity: Warning  --> include(box_tab): failed to open stream: No such file or directory C:\wamp\www\site\application\views\home.php 250
+ERROR - 2016-08-14 10:31:52 --> Severity: Warning  --> include(): Failed opening 'box_tab' for inclusion (include_path='.;C:\php\pear') C:\wamp\www\site\application\views\home.php 250
+ERROR - 2016-08-14 10:31:52 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:31:52 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:31:52 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:33:42 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:33:42 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:39:54 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:39:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:41:12 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:41:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:41:12 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:46:18 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:46:18 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:46:18 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:46:36 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:46:53 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 10:46:53 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 10:46:53 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:03:44 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:03:44 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:04:50 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:04:50 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:05:04 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:05:04 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:05:55 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:05:55 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:05:55 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:05:55 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:05:55 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:07:11 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:07:11 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:07:11 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:07:11 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:07:11 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:21:33 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:24:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:24:27 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:24:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:24:58 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:25:45 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:25:45 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:25:46 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:26:03 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:26:04 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:26:04 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:26:51 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:26:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:17 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:17 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:31:18 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:23 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:31:23 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:34 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:31:34 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:34 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:41 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:31:41 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:31:54 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:31:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:33:55 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:33:56 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:34:01 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:34:24 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:34:24 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:35:27 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:35:27 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:35:28 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:38:26 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:38:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:38:26 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:39:24 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:39:24 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:40:21 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:40:21 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:40:21 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:40:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:40:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:40:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:40:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:40:39 --> Severity: Notice  --> Array to string conversion C:\wamp\www\site\application\modules\admin\controllers\Categories.php 69
+ERROR - 2016-08-14 11:41:17 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:41:18 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:44:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:44:51 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:44:51 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:44:59 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:53:50 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:53:50 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:54:32 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 11:54:32 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 11:54:41 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:25:06 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:25:06 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:25:39 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:25:40 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:28:22 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:28:22 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:28:22 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:28:37 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:28:37 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:28:37 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:28:46 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:29:11 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:29:11 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:29:11 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:29:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:29:54 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:29:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:33:11 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 16:33:11 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 16:33:11 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:43:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-08-14 22:43:59 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-08-14 22:44:05 --> 404 Page Not Found --> css/normalise.css
+ERROR - 2016-08-14 22:44:05 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:44:06 --> 404 Page Not Found --> assets/global/img/bn-arrows.png
+ERROR - 2016-08-14 22:44:54 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:44:56 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:44:56 --> 404 Page Not Found --> assets/global/img/bn-arrows.png
+ERROR - 2016-08-14 22:45:07 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:45:08 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:45:08 --> 404 Page Not Found --> assets/global/img/bn-arrows.png
+ERROR - 2016-08-14 22:45:19 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:45:19 --> 404 Page Not Found --> assets/global/dest/respond.min.js
+ERROR - 2016-08-14 22:45:19 --> 404 Page Not Found --> assets/global/img/bn-arrows.png

@@ -1,0 +1,326 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-07-26 06:20:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 06:20:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 06:20:59 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 06:20:59 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 06:21:07 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  21 : 
+PLS-00103: تم مواجهه الرمز &quot;(&quot; عند توقع التالي: 
+ &lt;an identifier&gt;
+   &lt;a double-quoted delimited-identifier&gt; delete exists prior
+الرمز &quot;&lt;an identifier&gt;&quot; تم تبديله ب &quot;(&quot; للاستمرار . C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 07:34:08 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  21 : 
+PLS-00103: تم مواجهه الرمز &quot;(&quot; عند توقع التالي: 
+ &lt;an identifier&gt;
+   &lt;a double-quoted delimited-identifier&gt; delete exists prior
+الرمز &quot;&lt;an identifier&gt;&quot; تم تبديله ب &quot;(&quot; للاستمرار . C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 07:41:02 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:41:02 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:41:52 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:41:52 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:42:51 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:42:51 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:44:56 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:44:56 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:45:16 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:45:16 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:45:40 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:45:40 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:54:53 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:54:53 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:55:27 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:55:27 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:55:57 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:55:57 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:56:54 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:56:54 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:57:11 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:57:11 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:57:28 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:57:28 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:58:07 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:58:07 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:58:20 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:58:20 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:58:33 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:58:33 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 07:59:54 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 07:59:54 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:00:08 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:00:08 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:02:04 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:02:04 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:02:19 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:02:19 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:02:49 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:02:49 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:02:51 --> 404 Page Not Found --> Categories/favicon.ico
+ERROR - 2016-07-26 08:15:34 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:15:34 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:19:15 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:19:15 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:19:16 --> 404 Page Not Found --> Posts/favicon.ico
+ERROR - 2016-07-26 08:19:18 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:33:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-07-26 08:33:47 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:33:47 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:33:51 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-07-26 08:42:53 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:42:53 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:42:54 --> 404 Page Not Found --> Posts/favicon.ico
+ERROR - 2016-07-26 08:42:56 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:51:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:51:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:51:47 --> 404 Page Not Found --> Sys_Menus/favicon.ico
+ERROR - 2016-07-26 08:54:04 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:54:04 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 08:56:37 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 08:56:37 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:05:13 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:05:17 --> 404 Page Not Found --> Posts/favicon.ico
+ERROR - 2016-07-26 09:05:36 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:05:36 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:05:37 --> 404 Page Not Found --> Sys_Menus/favicon.ico
+ERROR - 2016-07-26 09:26:45 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:26:45 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:28:37 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:28:37 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:30:21 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:30:21 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:30:47 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:30:47 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:31:00 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:31:00 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:31:15 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:31:15 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:32:07 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:32:07 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:32:20 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:32:20 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:32:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:32:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:32:57 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:32:57 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:33:08 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:33:08 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:33:20 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:33:20 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:33:37 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:33:37 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:34:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:34:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:35:05 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:35:05 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:35:21 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:35:21 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:35:51 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:35:51 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:36:13 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:36:13 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:36:54 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:36:54 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:37:49 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:37:49 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:39:18 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:39:18 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:40:31 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:40:31 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:41:07 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:41:07 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:41:26 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:41:26 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:45:37 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:45:37 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:47:52 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:47:52 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:49:35 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:49:35 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:50:48 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:50:48 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:51:13 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:51:13 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:58:12 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:58:12 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:58:55 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:58:55 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:59:12 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:59:12 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:59:30 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:59:30 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 09:59:48 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 09:59:48 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:00:52 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:00:52 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:01:47 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:01:47 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:04:09 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:04:09 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:04:34 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:04:34 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:04:51 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:04:51 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:05:28 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:05:28 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:05:42 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:05:42 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:05:58 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:05:58 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:08:33 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:08:33 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:12:34 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:12:34 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:13:47 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:13:47 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:14:00 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:14:00 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:14:24 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:14:24 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:15:18 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:15:18 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:16:25 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:16:25 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:18:20 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:18:20 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:23:30 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:23:30 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:27:50 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:27:50 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:28:00 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  7 : 
+PLS-00306: wrong number or types of arguments in call to 'SYS_MENUS_INSERT'
+ORA-06550: سطر 1 ، عمود  7 : 
+PL/SQL: Statement ignored C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 10:28:18 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  7 : 
+PLS-00306: wrong number or types of arguments in call to 'SYS_MENUS_INSERT'
+ORA-06550: سطر 1 ، عمود  7 : 
+PL/SQL: Statement ignored C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 10:29:06 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  7 : 
+PLS-00306: wrong number or types of arguments in call to 'SYS_MENUS_INSERT'
+ORA-06550: سطر 1 ، عمود  7 : 
+PL/SQL: Statement ignored C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 10:30:40 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  7 : 
+PLS-00306: wrong number or types of arguments in call to 'SYS_MENUS_INSERT'
+ORA-06550: سطر 1 ، عمود  7 : 
+PL/SQL: Statement ignored C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 10:31:04 --> Severity: Warning  --> oci_execute(): ORA-06550: سطر 1 ، عمود  7 : 
+PLS-00306: wrong number or types of arguments in call to 'SYS_MENUS_INSERT'
+ORA-06550: سطر 1 ، عمود  7 : 
+PL/SQL: Statement ignored C:\wamp\www\site\application\core\DBConn.php 57
+ERROR - 2016-07-26 10:32:02 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:32:02 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:37:12 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-07-26 10:37:22 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:37:22 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 10:37:26 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-07-26 10:37:30 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 10:37:30 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:01:44 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:01:44 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:02:27 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:02:27 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:21:11 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:21:11 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:23:05 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:23:06 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:23:53 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:23:53 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:31:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-07-26 11:31:50 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:31:50 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:31:56 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-07-26 11:37:14 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:37:14 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:37:20 --> 404 Page Not Found --> Sys_Menus/favicon.ico
+ERROR - 2016-07-26 11:41:15 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:41:15 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:45:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:45:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:46:29 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:46:29 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:47:12 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:47:12 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:47:56 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:47:56 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 11:48:22 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 11:48:22 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 12:25:07 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 12:25:07 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 12:29:11 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 12:29:11 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 20:54:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-07-26 20:54:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 20:54:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 20:54:50 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-07-26 20:55:08 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 20:55:08 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 20:55:09 --> 404 Page Not Found --> Sys_Menus/favicon.ico
+ERROR - 2016-07-26 21:10:17 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:10:17 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:14:09 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:14:09 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:14:44 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:18:35 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:18:35 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:19:12 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:19:12 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:19:38 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:19:38 --> Severity: Notice  --> Undefined property: CI::$0 C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:21:03 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:21:03 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:21:07 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:21:17 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:21:17 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:21:24 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:21:35 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:21:35 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:21:46 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:25:16 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:25:16 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:25:42 --> Severity: Notice  --> Undefined property: CI::$p_ispublished C:\wamp\www\site\application\third_party\MX\Controller.php 58
+ERROR - 2016-07-26 21:29:07 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:29:07 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:30:13 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:30:13 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:31:02 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:31:02 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:48:02 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:48:02 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 21:49:06 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 21:49:06 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:32:39 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:32:39 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:33:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:33:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:48:28 --> 404 Page Not Found --> Sys_Menus/login.html
+ERROR - 2016-07-26 22:49:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-07-26 22:49:26 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:49:27 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:49:30 --> 404 Page Not Found --> admin/favicon.ico
+ERROR - 2016-07-26 22:49:34 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:49:35 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:49:36 --> 404 Page Not Found --> Posts/favicon.ico
+ERROR - 2016-07-26 22:49:46 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:49:46 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:49:58 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:49:58 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:49:59 --> 404 Page Not Found --> Categories/favicon.ico
+ERROR - 2016-07-26 22:50:19 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:50:19 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:50:20 --> 404 Page Not Found --> Banners/favicon.ico
+ERROR - 2016-07-26 22:50:28 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:50:28 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:50:29 --> 404 Page Not Found --> Votes/favicon.ico
+ERROR - 2016-07-26 22:50:35 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:50:35 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:50:39 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:50:39 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:50:40 --> 404 Page Not Found --> Messages/favicon.ico
+ERROR - 2016-07-26 22:50:58 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:50:58 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:51:02 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:51:02 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:51:08 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:51:08 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:51:09 --> 404 Page Not Found --> Users/favicon.ico
+ERROR - 2016-07-26 22:51:15 --> 404 Page Not Found --> global/font/Greta_Arabic_Regular.ttf
+ERROR - 2016-07-26 22:51:15 --> 404 Page Not Found --> global/font/JF%20Flat%20regular_0.ttf
+ERROR - 2016-07-26 22:51:16 --> 404 Page Not Found --> Groups/favicon.ico

@@ -1,0 +1,429 @@
+
+body{
+    font-family: 'Droid Arabic Naskh', serif !important;;
+    background-image:url("../image/back1.jpg");
+}
+.content{
+    height: 100%;
+}
+.center img{
+    width: 100%;
+    /*height: 100%;*/
+}
+.active_bar{
+    /*position: relative;*/
+    margin-top: 30px;
+    background: #d5d5d5;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+.clock{
+    position: absolute;
+    display: inline;
+    background: #d9534f;
+    width: 170px;
+    top: 239px;
+    padding: 15px;
+    right: 985px;
+}
+.icons{
+    margin-top: 10px;
+    background: #ffffff;
+    border: 1px solid #d9534f;
+}
+.images{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #ffffff;
+}
+ul.img-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: rgba(133, 146, 145, 0.51);
+}
+
+ul.img-list li {
+    display: inline-block;
+    height: 150px;
+    margin: 0 1em 1em 0;
+    position: relative;
+    width: 150px;
+}
+span.text-content {
+    background: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+}
+
+span.text-content span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+span.text-content {
+    background: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    opacity: 0;
+}
+
+ul.img-list li:hover span.text-content {
+    opacity: 1;
+}
+span.text-content {
+    background: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+    opacity: 0;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
+.right-content{
+    background: #269abc;
+}
+.left-content{
+    background: #a6e1ec;
+}
+.news{
+    margin-top:10px;
+}
+/*the carousal slide of news*/
+.div_slide{
+    margin: 0 0 10px;
+    background: #000000;
+    opacity: 0.5;
+    height: 100px;
+    width: 750px;
+    position: absolute;
+    top: -20px;
+    right: -150px;
+}
+.title_slide{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bolder;
+    padding-top: 15px;
+}
+/*style of icon */
+.title_icon{
+    position: relative;
+    z-index: 2;
+
+}
+.div_back_icon{
+    width: 185px;
+    height: 150px;
+    position: absolute;
+    z-index: 1;
+    opacity: 0.5;
+}
+.back_icon{
+    font-size: 60px;
+    color: #ffffff;
+}
+/**/
+#parent_nav{
+    background: rgba(0, 0, 255, 0);
+
+
+}
+/*for dropdown menu*/
+/*------------------------------------*\
+	NAV
+\*------------------------------------*/
+#nav{
+    list-style:none;
+    font-weight:bold;
+    margin-bottom:10px;
+    display: block;
+    /* Clear floats */
+    padding: 0;
+    width: 100%;
+    z-index: 9999;
+    height: 50px;
+}
+#nav li{
+    float:right;
+    position:relative;
+    padding: 0 5px;
+}
+#nav a{
+    display:block;
+    padding:5px;
+    line-height: 40px;
+    color:#fff;
+    /*background:#333;*/
+    text-decoration:none;
+}
+#nav a:hover{
+    color:#fff;
+    /*background:#6b0c36;*/
+    text-decoration:none;
+}
+#nav :hover{
+    /*color:#fff;*/
+    background: rgba(0, 0, 0, 0.47);
+    /*text-decoration:none;*/
+}
+
+
+/*--- DROPDOWN ---*/
+#nav ul{
+    background: #333; /* Adding a background makes the dropdown work properly in IE7+. Make this as close to your page's background as possible (i.e. white page == white background). */
+    /* But! Let's make the background fully transparent where we can, we don't actually want to see it if we can help it... */
+    list-style:none;
+    position:absolute;
+    /* Hide off-screen when not needed (this is more accessible than display:none;) */
+    z-index: 999;
+    min-width: 150px;
+    display: none;
+}
+#nav ul li{
+    padding-top:1px; /* Introducing a padding between the li and the a give the illusion spaced items */
+    float:none;
+    z-index: 9999;
+    border-bottom: 1px solid #555;
+}
+#nav ul a{
+    white-space:nowrap; /* Stop text wrapping and creating multi-line dropdown items */
+    text-align: right;
+}
+#nav li:hover ul{ /* Display the dropdown on hover */
+    /* Bring back on-screen when needed */
+    display: block;
+}
+#nav li:hover a{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
+    background-color: rgba(49, 49, 49, 0.79);
+    text-decoration:none;
+}
+#nav li:hover{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
+    background-color: rgba(49, 49, 49, 0.79);
+    text-decoration:none;
+}
+
+#nav li:hover ul a{ /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
+    text-decoration:none;
+}
+#nav li:hover ul li a:hover{ /* Here we define the most explicit hover states--what happens when you hover each individual link. */
+    background:#333;
+}
+.bar{
+    font-size: 16px;
+    font-weight: bold;
+}
+#nav li:first-child{
+    padding-right: 0px;
+}
+#nav li div.home a{
+    background: rgba(255, 158, 0, 1);
+    display: block;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    line-height: 30px;
+}
+#nav li div.home{}
+.home a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.bar a:hover{
+    text-decoration: none;
+    /*font-size: 16.5px;*/
+    color:#ffffff;
+
+
+}
+.bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+li {
+    float: right;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown_head a:hover, .dropdown_head:hover .dropbtn {
+    background-color: rgba(49, 49, 49, 0.79);
+}
+
+li.dropdown_head {
+    display: inline-block;
+}
+
+.dropdown-content {
+    margin-top: 1px;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(49, 49, 49, 0.79);
+    z-index: 100;
+}
+
+.dropdown-content a {
+    color: #ffffff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+    background: #000000;
+}
+
+.dropdown-content a:hover {
+    background-color: rgba(20, 20, 20, 0.92);
+}
+
+.dropdown_head:hover .dropdown-content {
+    display: block;
+}
+/**/
+/*the post details*/
+.post-details{
+    border: 1px solid #ECECEC;
+    overflow: hidden;
+    border-radius: 8px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.post-details .details {
+    padding: 20px;
+}
+.post-details .details .date {
+    float: right;
+    background-color: #0DA3E2;
+    width: 95px;
+    line-height: 35px;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    color: #fff;
+    text-align: center;
+}
+.post-details h1, .media-details h1, .contactus h1 {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: right;
+    margin-bottom: 15px;
+    color: #000;
+}
+.post-details .details img, .media-details img {
+    margin: 10px auto;
+    max-height: 300px;
+    width: auto;
+}
+.post-details .details article {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 25px;
+}
+.mix-grid .mix .mix-inner {
+    position: relative;
+    width: 100%;
+}
+.mix-grid .mix {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.mix-grid .mix {
+    opacity: 0;
+    display: none;
+}
+/**/
+
+.item_box:hover > .overly_box {
+
+    display:block;
+
+    height: 100%;
+    background-color: rgba(178, 37, 196, 0.75);
+    top:0px;
+
+
+}
+.item_box > .overly_box {
+    width: 100%;
+    height: 0%;
+    background-color: rgb(178, 37, 196);
+    top: 100%;
+    left: 0px;
+    position: absolute;
+    display: block;
+    transition: all 0.7s linear;
+    -webkit-transition: all 0.7s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+    -moz-transition: all 0.7s linear;
+    -o-transition: all 0.7s linear;
+    -ms-transition: all 0.7s linear;
+
+
+}
+
+.item_box .overly_box a{
+    display: inline;
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+
+}
+.list_group :hover{
+    background: rgb(20, 20, 20);
+}
+/*for links in the blocks*/
+.link_more{
+    position: absolute;
+    top: 35px;
+    right: 340px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+.link_more:hover,.link_more:visited,.link_more:active,.link_more:link{
+    text-decoration: none;
+    color: #ffffff;
+}
+.link_post{
+    color: #787878;
+    text-decoration: none;
+}
+.link_post:hover{
+    text-decoration: none;
+    color: #000;
+}
